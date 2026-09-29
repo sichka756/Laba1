@@ -1,0 +1,4 @@
+VAR
+	Enable : BOOL := TRUE;
+	Speed : INT;
+END_VAR

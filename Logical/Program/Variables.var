@@ -1,0 +1,5 @@
+VAR
+	fb_regulator : FB_regulator;
+	fb_motor : FB_motor;
+	fb_motor_2 : FB_motor;
+END_VAR
